@@ -1,7 +1,7 @@
 {
     "builders": [
         {
-            "ami_name"         : "alpha-ion-ami-{{timesamp}}",
+            "ami_name"         : "alpha-ion-ami-{{timestamp}}",
             "instance_type"    : "t3.micro",
             "region"           : "eu-north-1",
             "source_ami"       : "ami-064087b8d355e9051",
@@ -19,3 +19,4 @@
     }
   ]
 }    
+
