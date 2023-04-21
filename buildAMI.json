@@ -6,7 +6,7 @@
             "region"           : "eu-north-1",
             "source_ami"       : "ami-064087b8d355e9051",
             "tags" :{
-                "Name" : "packer_ami"
+                "Name" : "packer_ami1"
             },
             "ssh_username"     : "ubuntu",
             "type"             : "amazon-ebs"
